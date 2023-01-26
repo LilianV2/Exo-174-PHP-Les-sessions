@@ -2,6 +2,15 @@
 
 // Premiere ligne
 
+session_start();
+
+$_SESSION['color'] = "red";
+
+?>
+
+<a href="index2.php">clic</a>
+
+
 
 
 
